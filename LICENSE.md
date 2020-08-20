@@ -1,1 +1,1 @@
-# LICENSE
+# UNLICENSE
